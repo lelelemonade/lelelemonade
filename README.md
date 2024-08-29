@@ -1,4 +1,4 @@
-<h2> Hi, I'm ZhongLi! <img src="imgs/tplink.svg" width="50"></h2>
+<h2> Hi, I'm ZhongLi! I used to work for <img href="https://www.tp-link.com/" src="imgs/tplink.svg" width="50">. Currently looking for new chances in Germany</h2>
 
 <p align="center">
 	<a href="https://github.com/lelelemonade"><img src="https://img.shields.io/github/followers/lelelemonade.svg?label=GitHub&style=social" alt="GitHub"></a>
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently learning Kotlin/Javascript/Web3
 - 👯 I’m looking to collaborate on mock interview
-- 🤔 I’m looking for help with finding a backend job in Berlin
+- 🤔 I’m looking for help with finding a backend job in Germany
 - 💬 Ask me about Distributed System
 
 **Code I Write:**
@@ -28,15 +28,15 @@
 
 **Service I Use:**
 
-<a href="https://dotnet.microsoft.com/" title="AWS"><img src="imgs/aws.svg" style="width: 50px; height: 50px;" /></a>
-<a href="http://csharp.net/" title="Cloudflare"><img src="imgs/cloudflare.svg" style="width: 50px; height: 50px;" /></a>
-<a href="https://docs.microsoft.com/en-us/dotnet/visual-basic/" title="GCP"><img src="imgs/gcp.svg" style="width: 50px; height: 50px;" /></a>
+<a href="https://aws.amazon.com/" title="AWS"><img src="imgs/aws.svg" style="width: 50px; height: 50px;" /></a>
+<a href="https://www.cloudflare.com/" title="Cloudflare"><img src="imgs/cloudflare.svg" style="width: 50px; height: 50px;" /></a>
+<a href="https://cloud.google.com/" title="GCP"><img src="imgs/gcp.svg" style="width: 50px; height: 50px;" /></a>
 
 **Tool I Use:**
 
 <a href="https://cassandra.apache.org/" title="Cassandra"><img src="imgs/cassandra.svg" style="width: 50px; height: 50px;" /></a>
 <a href="https://redis.io/" title="Redis"><img src="imgs/redis.svg" style="width: 50px; height: 50px;" /></a>
-<a href="https://docs.microsoft.com/en-us/dotnet/visual-basic/" title="MySQL"><img src="imgs/mysql.svg" style="width: 50px; height: 50px;" /></a>
+<a href="https://www.mysql.com/" title="MySQL"><img src="imgs/mysql.svg" style="width: 50px; height: 50px;" /></a>
 <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="imgs/postgresql.svg" style="width: 50px; height: 50px;" /></a>
 <a href="https://kubernetes.io/" title="Kubernetes"><img src="imgs/kubernetes.svg" style="width: 50px; height: 50px;" /></a>
 <a href="https://www.docker.com/" title="Docker"><img src="imgs/docker.svg" style="width: 50px; height: 50px;" /></a>
