@@ -4,7 +4,7 @@
 	<a href="https://github.com/lelelemonade"><img src="https://komarev.com/ghpvc/?username=lelelemonade&label=Profile%20views&color=0e75b6&style=flat" alt="lelelemonade" /></a>
 	<a href="https://github.com/lelelemonade"><img src="https://img.shields.io/github/followers/lelelemonade.svg?label=GitHub&style=social" alt="GitHub"></a>
 	<a href="https://www.linkedin.com/in/shen-zhongli/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-	<img align="right" src="imgs/leetcode.jpeg" style="width: 200px; height: 200px;" />
+	<img align="right" src="imgs/leetcode.jpeg" style="width: 400px; height: 400px;" />
 </p>
 
 - 🔭 I’m currently learning **Javascript**, **Web3**.
