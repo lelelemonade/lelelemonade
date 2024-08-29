@@ -4,9 +4,8 @@
 	<a href="https://github.com/lelelemonade"><img src="https://komarev.com/ghpvc/?username=lelelemonade&label=Profile%20views&color=0e75b6&style=flat" alt="lelelemonade" /></a>
 	<a href="https://github.com/lelelemonade"><img src="https://img.shields.io/github/followers/lelelemonade.svg?label=GitHub&style=social" alt="GitHub"></a>
 	<a href="https://www.linkedin.com/in/shen-zhongli/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+	<img align="right" src="imgs/leetcode.jpeg" />
 </p>
-
-<img align="right" src="imgs/leetcode.jpeg" />
 
 - 🔭 I’m currently learning **Javascript**, **Web3**.
 - 👯 I’m looking to collaborate on mock interview.
