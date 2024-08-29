@@ -12,19 +12,19 @@
 
 **Code I Write:**
 
-<a href="https://www.java.com/" title="Java"><img src="imgs/java.svg" /></a>
-<a href="https://kotlinlang.org/" title="Kotlin"><img src="imgs/kotlin.svg" /></a>
-<a href="https://go.dev/" title="Golang"><img src="imgs/golang.svg" /></a>
-<a href="https://www.python.org/" title="Python"><img src="imgs/python.svg" /></a>
+<a href="https://www.java.com/" title="Java"><img src="imgs/java.svg" style="width: 100px; height: 100px;" /></a>
+<a href="https://kotlinlang.org/" title="Kotlin"><img src="imgs/kotlin.svg" style="width: 100px; height: 100px;" /></a>
+<a href="https://go.dev/" title="Golang"><img src="imgs/golang.svg" style="width: 100px; height: 100px;" /></a>
+<a href="https://www.python.org/" title="Python"><img src="imgs/python.svg" style="width: 100px; height: 100px;" /></a>
 
 **Framework I Work With:**
 
-<a href="https://junit.org/" title="Junit"><img src="imgs/junit.svg" /></a>
-<a href="https://shardingsphere.apache.org/" title="ShardingSphere"><img src="imgs/shardingsphere.svg" /></a>
-<a href="https://hibernate.org/" title="Hibernate"><img src="imgs/hibernate.svg" /></a>
-<a href="https://grpc.io/" title="grpc"><img src="imgs/grpc.svg" /></a>
-<a href="https://dubbo.apache.org/" title="Dubbo"><img src="imgs/dubbo.svg" /></a>
-<a href="https://graphql.org/" title="GraphQL"><img src="imgs/graphql.svg" /></a>
+<a href="https://junit.org/" title="Junit"><img src="imgs/junit.svg" style="width: 100px; height: 100px;" /></a>
+<a href="https://shardingsphere.apache.org/" title="ShardingSphere"><img src="imgs/shardingsphere.svg" style="width: 100px; height: 100px;" /></a>
+<a href="https://hibernate.org/" title="Hibernate"><img src="imgs/hibernate.svg" style="width: 100px; height: 100px;" /></a>
+<a href="https://grpc.io/" title="grpc"><img src="imgs/grpc.svg" style="width: 100px; height: 100px;" /></a>
+<a href="https://dubbo.apache.org/" title="Dubbo"><img src="imgs/dubbo.svg" style="width: 100px; height: 100px;" /></a>
+<a href="https://graphql.org/" title="GraphQL"><img src="imgs/graphql.svg" style="width: 100px; height: 100px;" /></a>
 
 **Service I Use:**
 
