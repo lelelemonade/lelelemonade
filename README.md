@@ -1,4 +1,10 @@
-## Hi there 👋
+<h2> Hi, I'm ZhongLi! <img src="imgs/tplink.svg" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+
+<p align="center">
+	<a href="https://github.com/lelelemonade"><img src="https://img.shields.io/github/followers/lelelemonade.svg?label=GitHub&style=social" alt="GitHub"></a>
+	<a href="https://www.linkedin.com/in/shen-zhongli/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+</p>
 
 <!--
 **lelelemonade/lelelemonade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
