@@ -1,20 +1,22 @@
-<h2> Hi, I'm ZhongLi! I used to work for <img href="https://www.tp-link.com/" src="imgs/tplink.svg" width="50">. Currently looking for new chances in Germany</h2>
+<h2> Hi, This is ZhongLi! I used to work for <a href="https://www.tp-link.com/" title="tplink"><img src="imgs/tplink.svg" width="50">. Currently looking for new chances in Germany</h2>
 
 <p align="center">
+	<a href="https://github.com/lelelemonade"><img src="https://komarev.com/ghpvc/?username=lelelemonade&label=Profile%20views&color=0e75b6&style=flat" alt="lelelemonade" /></a>
 	<a href="https://github.com/lelelemonade"><img src="https://img.shields.io/github/followers/lelelemonade.svg?label=GitHub&style=social" alt="GitHub"></a>
 	<a href="https://www.linkedin.com/in/shen-zhongli/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 </p>
 
-- 🔭 I’m currently learning Kotlin/Javascript/Web3
-- 👯 I’m looking to collaborate on mock interview
-- 🤔 I’m looking for help with finding a backend job in Germany
-- 💬 Ask me about Distributed System
+<img align="right" src="imgs/leetcode.jpeg" />
+
+- 🔭 I’m currently learning **Javascript**, **Web3**.
+- 👯 I’m looking to collaborate on mock interview.
+- 💬 Ask me about **Spring Boot**, **Distributed System**, **Database Migration**.
 
 **Code I Write:**
 
 <a href="https://www.java.com/" title="Java"><img src="imgs/java.svg" style="width: 50px; height: 50px;" /></a>
-<a href="https://kotlinlang.org/" title="Kotlin"><img src="imgs/kotlin.svg" style="width: 50px; height: 50px;" /></a>
 <a href="https://go.dev/" title="Golang"><img src="imgs/golang.svg" style="width: 50px; height: 50px;" /></a>
+<a href="https://kotlinlang.org/" title="Kotlin"><img src="imgs/kotlin.svg" style="width: 50px; height: 50px;" /></a>
 <a href="https://www.python.org/" title="Python"><img src="imgs/python.svg" style="width: 50px; height: 50px;" /></a>
 
 **Framework I Work With:**
