@@ -1,10 +1,10 @@
-<h2> Hi, This is ZhongLi! I used to work for <a href="https://www.tp-link.com/" title="tplink"><img src="imgs/tplink.svg" width="50">. Currently looking for new chances in Germany</h2>
+<h2> Hi, This is ZhongLi! I used to work for <a href="https://www.tp-link.com/" title="tplink"><img src="imgs/tplink.svg" width="50"></a>. Currently looking for new chances in Germany</h2>
 
 <p align="center">
 	<a href="https://github.com/lelelemonade"><img src="https://komarev.com/ghpvc/?username=lelelemonade&label=Profile%20views&color=0e75b6&style=flat" alt="lelelemonade" /></a>
 	<a href="https://github.com/lelelemonade"><img src="https://img.shields.io/github/followers/lelelemonade.svg?label=GitHub&style=social" alt="GitHub"></a>
 	<a href="https://www.linkedin.com/in/shen-zhongli/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-	<img align="right" src="imgs/leetcode.jpeg" />
+	<img align="right" src="imgs/leetcode.jpeg" style="width: 200px; height: 200px;" />
 </p>
 
 - 🔭 I’m currently learning **Javascript**, **Web3**.
