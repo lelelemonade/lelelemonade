@@ -1,4 +1,4 @@
-<h2> Hi, This is ZhongLi! I used to work for <a href="https://www.tp-link.com/" title="tplink"><img src="imgs/tplink.svg" width="50"></a>. Currently looking for new chances</h2>
+<h2> Hi, This is ZhongLi! I used to work for <a href="https://www.tp-link.com/" title="tplink"><img src="imgs/tplink.svg" width="50"></a>. Currently working for <a href="https://www.trivago.de/" title="trivago"><img src="imgs/trivago.svg" width="50"></a></h2>
 
 <p align="center">
 	<a href="https://github.com/lelelemonade"><img src="https://komarev.com/ghpvc/?username=lelelemonade&label=Profile%20views&color=0e75b6&style=flat" alt="lelelemonade" /></a>
